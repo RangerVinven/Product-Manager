@@ -1,0 +1,10 @@
+users collection:
+    username (hashed),
+    password (hashed)
+
+products collection:
+    name,
+    price,
+    type,
+    stockLevel,
+    
